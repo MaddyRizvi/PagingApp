@@ -82,6 +82,6 @@ Paging is a crucial feature for handling large datasets efficiently in mobile ap
 
 ## Installation
 ```bash
-git clone https://github.com/MaddyRizvi/PagingApp
+git clone https://github.com/MaddyRizvi/PagingApp.git
 cd <PagingApp>
 open PagingApp in Android Studio
