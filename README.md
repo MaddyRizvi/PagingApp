@@ -19,6 +19,16 @@ This Android app is built using **Java**, **MVVM architecture**, **Paging**, and
 - **LiveData & ViewModel**
 - **Coroutines** (for asynchronous operations)
 
+## Screenshots
+
+Here are some screenshots of the app in action:
+
+### Home Screen
+![Image](https://github.com/user-attachments/assets/00ccf0eb-5c87-4def-a7be-7edf1ed93749)
+
+### Details View
+![Image](https://github.com/user-attachments/assets/f6772d37-7f1a-483a-8c19-f6228b85364a)
+
 ## Paging: Why and How it's Used
 
 ### Why Paging is Used in This App
@@ -72,6 +82,6 @@ Paging is a crucial feature for handling large datasets efficiently in mobile ap
 
 ## Installation
 ```bash
-git clone <repository-url>
-cd <project-directory>
-open <project-directory> in Android Studio
+git clone https://github.com/MaddyRizvi/PagingApp
+cd <PagingApp>
+open PagingApp in Android Studio
