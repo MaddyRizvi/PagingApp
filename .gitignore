@@ -1,0 +1,56 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration
+/local.properties
+*.iml
+
+# IntelliJ/Android Studio
+.idea/
+*.iws
+*.ipr
+*.iworkspace.xml
+
+# Log files
+*.log
+
+# Keystore files (security-sensitive)
+*.jks
+*.keystore
+
+# Dependency caches
+.gradle/
+**/build/
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Android test results
+**/test-results/
+**/test-output/
+**/androidTest-results/
+
+# Generated assets and binaries
+*.class
+*.dex
+*.so
+*.o
+*.obj
+
+# Firebase & Google Services
+google-services.json
+fabric.properties
+crashlytics.properties
+
+# Other unnecessary files
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
